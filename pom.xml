@@ -55,6 +55,13 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
+	
+	<scm> <!-- EDIT HERE @fadhlanwasim !!!!!!-->
+	  <url>https://github.com/CruelSid/springboot-thymeleaf-crud-pagination-sorting-webapp</url>
+	  <connection>scm:git:git://github.com/CruelSid/springboot-thymeleaf-crud-pagination-sorting-webapp.git</connection>
+	  <developerConnection>scm:git:ssh://git@github.com/CruelSid/springboot-thymeleaf-crud-pagination-sorting-webapp.git</developerConnection>
+	  <tag>HEAD</tag>
+	</scm>
 
 	<build>
 		<plugins>
